@@ -13,7 +13,7 @@
 <body leftmargin="0" topmargin="0">
 <!-- ------------------------------------- -->
  
-  <DIV class = "title">Github 실습</DIV>
+  <DIV class = "title">Github 실습 2</DIV>
  
  <form name = 'frm' method='POST' action="./.jsp">
    <fieldset>
